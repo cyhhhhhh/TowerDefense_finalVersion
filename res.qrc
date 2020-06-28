@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/base.png</file>
+        <file>image/bg.png</file>
+        <file>image/bullet.png</file>
+        <file>image/button1.png</file>
+        <file>image/button2.png</file>
+        <file>image/button3.png</file>
+        <file>image/destroyingenemy.png</file>
+        <file>image/enemy.png</file>
+        <file>image/enemy1.png</file>
+        <file>image/ice_bullet.png</file>
+        <file>image/rule.png</file>
+        <file>image/spot.png</file>
+        <file>image/tower.png</file>
+        <file>image/updatedtower.png</file>
+        <file>music/bgm.mp3</file>
+        <file>music/enemy_destroy.MP3</file>
+        <file>music/laser_shoot.mp3</file>
+        <file>music/life_lose.wav</file>
+        <file>music/tower_destroy.mp3</file>
+        <file>music/tower_place.wav</file>
+        <file>image/bullet1.png</file>
+        <file>music/shoot_sound.mp3</file>
+        <file>image/Scene.png</file>
+        <file>image/victory.jpg</file>
+        <file>image/lose.jpg</file>
+    </qresource>
+</RCC>
